@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>artistName</key>
+		<string>Kaatru Veliyidai</string>
+		<key>songName</key>
+		<string>Saarattu Vandiyila</string>
+		<key>albumArtwork</key>
+		<string>Kaatru Veliyidai.jpg</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Magalir Mattum</string>
+		<key>songName</key>
+		<string>Adi Vaadi Thimiraa</string>
+		<key>albumArtwork</key>
+		<string>MagalirMattum.jpg</string>
+	</dict>
+	<dict>
+		<key>artistName</key>
+		<string>Server Sundaram</string>
+		<key>songName</key>
+		<string>Bro</string>
+		<key>albumArtwork</key>
+		<string>Server Sundaram.jpg</string>
+	</dict>
+</array>
+</plist>
